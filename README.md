@@ -1,2 +1,2 @@
-# rassvet-soft
+# angularJScourse 
 code for web-developers
