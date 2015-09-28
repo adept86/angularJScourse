@@ -1,2 +1,2 @@
 # angularJScourse 
-code for web-developers
+examples of code for web-developers 
