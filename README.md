@@ -1,2 +1,2 @@
 # angularJScourse 
-code for web-developers from Rassvet-Soft company
+code for web-developers from Rassvet-Soft company.
